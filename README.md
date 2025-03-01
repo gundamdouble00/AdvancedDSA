@@ -15,8 +15,8 @@
 | 2      | 22521332      | Nguyễn Dương Quốc Thắng|Thành viên |     |22521332@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** Nhập môn Công nghệ phần mềm
-* **Mã môn học:** SE104
-* **Mã lớp:** SE104.O27
-* **Năm học:** HK2 (2023 - 2024)
-* **Giảng viên**: ThS.Đặng Việt Dũng
+* **Tên môn học:** CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO
+* **Mã môn học:** CS523
+* **Mã lớp:** CS523.P21
+* **Năm học:** HK2 (2024 - 2025)
+* **Giảng viên**: ThS.Nguyễn Thanh Sơn
