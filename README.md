@@ -12,7 +12,6 @@
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 22521214      | Nguyễn Ngọc Minh Quốc  |Nhóm trưởng|[gundamdouble00](https://github.com/gundamdouble00)               |22521214@gm.uit.edu.vn   |
-| 2      | 22521332      | Nguyễn Dương Quốc Thắng|Thành viên |     |22521332@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO
